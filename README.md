@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LotharBezzon
-- 👀 I’m interested in computational biophysics
+- 👋 Hi, I’m @LotharBezzon, a student in Physics
+
 
 <!---
 LotharBezzon/LotharBezzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
